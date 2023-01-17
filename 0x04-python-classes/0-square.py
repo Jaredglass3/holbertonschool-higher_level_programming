@@ -1,12 +1,20 @@
 #!/usr/bin/python3
-"""
-This is the Square module.
-The Square module contains the Square class
-"""
+""" Module contains: class Square """
 
 
-class Square:
+class Square():
     """
-    This is an empty class
+        Square: defines a square.
+        Attributes:
+            size (no type or value identification): size of square.
+        Method:
+                __init__ : init of size attribute for each instance.
     """
-    pass
+
+    def __init__(self, size):
+
+        """ Initialization of attributes for instances
+            Args:
+                size (no type): size of the square.
+        """
+        self.__size = size
