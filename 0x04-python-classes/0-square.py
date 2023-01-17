@@ -1,9 +1,12 @@
 #!/usr/bin/python3
-The square class:
 """
-This class doesn't do anything for the moment
+This is the Square module.
+The Square module contains the Square class
 """
 
 
 class Square:
+    """
+    This is an empty class
+    """
     pass
