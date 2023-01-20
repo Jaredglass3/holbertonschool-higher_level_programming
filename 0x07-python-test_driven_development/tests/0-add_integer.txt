@@ -124,4 +124,3 @@ Test case #16: A test case to check the returned integer type
 
     >>> type(add_integer(5, 5))
     <class 'int'>band aOperations:
-===========
