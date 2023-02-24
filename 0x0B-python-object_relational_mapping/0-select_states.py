@@ -21,5 +21,3 @@ def mysqlconnnect():
         print(row)
     cur.close()
     db_connection.close()
-
-mysqlconnnect()
