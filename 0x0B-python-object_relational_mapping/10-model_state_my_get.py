@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Task 10: prints the State object with the name passed as argument from
